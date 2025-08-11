@@ -1,0 +1,15 @@
+# Compiled binaries
+*.o
+*.out
+a.out
+
+# Debug symbols
+*.dSYM/
+
+# IDE files
+.vscode/
+.DS_Store
+
+# Build directories
+build/
+bin/
